@@ -2,16 +2,17 @@
 
 ## Getting Started
 
-Clone
+Clone as your own
 
 ```sh
-git clone https://github.com/UCC-Batch-26/voting-api.git
+npx degit@latest https://github.com/UCC-Batch-26/voting-api.git voting-api
+cd voting-api
+git init
 ```
 
 Install dependencies
 
 ```sh
-cd voting-api
 npm install
 ```
 
